@@ -1,0 +1,15 @@
+{
+  "cache":
+  {
+	"name": "Test",
+	"path": "/tmp/stache",
+	"umask": "0000"
+  },
+  "layers": 
+  {
+	"moots":
+	{
+		"provider": {"name": "mbtiles", "pathToDb": "moots_34f125.mbtiles", "batchSize": 500}
+	}
+  }
+}
